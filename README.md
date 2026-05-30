@@ -13,3 +13,8 @@ A sleek, interactive rating and review component built with HTML, CSS and JavaSc
 - 🧩 **Reusable component** : Can be integrated into any website or project.  
 - 🎯 **Lightweight and fast** : Minimal CSS and JavaScript for smooth performance.  
 - 💾 **Optional data handling** : Can be extended to save ratings/reviews to a database.  
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="916" alt="Screenshot 2026-05-30 082430" src="https://github.com/user-attachments/assets/85cb0ac0-2e24-4368-8c6f-c0f1ea58af64" />
